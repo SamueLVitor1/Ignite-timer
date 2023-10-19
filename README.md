@@ -1,13 +1,14 @@
-<div style="display: flex; justify-content: center; align-items: center; gap: 4px">
-  
-  # Ignite Timer 
-  <img style="margin-top:-22px" src="./src/assets/logo-ignite.svg" alt="Logo do check" width="25" height="25">
-</div>
+<p align="center">
+  <img src="./src/assets/logo-ignite.svg" alt="Logo do Ignite" width="50" height="50">
+</p>
+<h1 align="center">Ignite Timer</h1>
 
-<p style="font-size: 16px"> Ignite Timer é um projeto realizado no modulo 2 da trilha ReactJS do Ignite, Nesse módulo fizemos uma aplicação pomodoro utilizando os principais conceitos de SPAs ( Single Page Application ) com ReactJS. Aprendi muitas coisas sobre como funciona o roteamento entre as páginas no react, construção e validação de formularios, context e outras coisas
+<p align="center">
+  <a href="https://ignite-timer-ruddy.vercel.app/">👾Deploy</a>
 </p>
 
-<a href="https://ignite-timer-ruddy.vercel.app/">👾Deploy</a>
+<p style="font-size: 16px"> 📝 Ignite Timer é um projeto realizado no modulo 2 da trilha ReactJS do Ignite, nesse módulo fizemos uma aplicação de pomodoro utilizando os principais conceitos de SPAs ( Single Page Application ) com ReactJS. Aprendi muitas coisas sobre como funciona o roteamento entre as páginas no react, construção e validação de formularios, context e outras coisas
+</p>
 
 <h3>📌Visão geral do projeto:</h3>
 
@@ -32,6 +33,7 @@
   ```
 
 ## 🛠️ Nesse projeto foi utilizado
+
 <ul>
 <li>Vite</li>
 <li>Styled components</li>

@@ -7,7 +7,7 @@
 <p style="font-size: 16px"> Ignite Timer é um projeto realizado no modulo 2 da trilha ReactJS do Ignite, Nesse módulo fizemos uma aplicação pomodoro utilizando os principais conceitos de SPAs ( Single Page Application ) com ReactJS. Aprendi muitas coisas sobre como funciona o roteamento entre as páginas no react, construção e validação de formularios, context e outras coisas
 </p>
 
-<a href="https://todo-jwkoigha5-samuelvitor1.vercel.app/">👾Deploy</a>
+<a href="https://ignite-timer-ruddy.vercel.app/">👾Deploy</a>
 
 <h3>📌Visão geral do projeto:</h3>
 

@@ -1,27 +1,44 @@
-# React + TypeScript + Vite
+<div style="display: flex; justify-content: center; align-items: center; gap: 4px">
+  
+  # Ignite Timer 
+  <img style="margin-top:-22px" src="./src/assets/logo-ignite.svg" alt="Logo do check" width="25" height="25">
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p style="font-size: 16px"> Ignite Timer é um projeto realizado no modulo 2 da trilha ReactJS do Ignite, Nesse módulo fizemos uma aplicação pomodoro utilizando os principais conceitos de SPAs ( Single Page Application ) com ReactJS. Aprendi muitas coisas sobre como funciona o roteamento entre as páginas no react, construção e validação de formularios, context e outras coisas
+</p>
 
-Currently, two official plugins are available:
+<a href="https://todo-jwkoigha5-samuelvitor1.vercel.app/">👾Deploy</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h3>📌Visão geral do projeto:</h3>
 
-## Expanding the ESLint configuration
+![Projeto Ignite Timer](./public/ignite-timer.gif)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## 🔧 Instalação
+<ol>
+  <p>
+  Para instalar o projeto no seu computador vai precisar: 
+  </p>
+  <li>Baixar o projeto:</li>
+  <img src="./public/baixar.png" width="280"> <br>
 
-- Configure the top-level `parserOptions` property like this:
+  <li>Extrai a pasta baixada do projeto e dentro dela abre o prompt </li> <br>
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+  <li>Agora vamos instalar as dependências do projeto, para isso podemos usar gerenciador de pacotes NPM</li>
+  <p>Para instalar as dependências do projeto rodamos o seguinte comando:</p>
+</ol>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+  ```sh
+    npm install
+  ```
+
+## 🛠️ Nesse projeto foi utilizado
+<ul>
+<li>Vite</li>
+<li>Styled components</li>
+<li>Typescript</li>
+<li>Context API </li>
+<li>Reducer </li>
+<li>React Router Dom </li>
+<li>React Hook Form </li>
+<li>Validações de formulário com Zod</li>
+</ul>
